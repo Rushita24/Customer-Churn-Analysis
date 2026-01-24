@@ -10,4 +10,6 @@ Telco Customer Churn dataset containing customer demographics, contract details,
 - SQL
 - Power BI
 - Excel
-
+## Dataset
+- `data/Customer_Churn.csv.numbers`  
+Contains customer demographics, contract details, and churn status for a subscription-based company.
